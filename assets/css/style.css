@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+
+/* ------------------header*/
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+#kwafaa {
+    color: #f02626;
+}
+.imageCredit {
+    font-family: 'Caveat', cursive;
+
+    margin-left: 4px;
+}
